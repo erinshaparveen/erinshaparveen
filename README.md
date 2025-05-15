@@ -13,7 +13,7 @@
 
 - 🌱 I’m also passionate about **Software Quality Improvement, Bug Tracking, Agile Methodology, and Continuous Integration/Continuous Delivery (CI/CD).**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/15oWN5q0ePsysS6Yrj05LnYS0n0uZBTJj/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1uSsAp1au5ViaNkYqyyXIrppvp7AIpPGY/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
