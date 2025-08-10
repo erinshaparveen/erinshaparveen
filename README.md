@@ -39,16 +39,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InshaParveen&show_icons=true&theme=radical" alt="Insha's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InshaParveen&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🚀 Fun Fact  
