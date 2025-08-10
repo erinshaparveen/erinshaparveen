@@ -9,7 +9,7 @@
 
 - 😄 My areas of interest include **Automation Testing, Performance Testing, Manual Testing.**
 
-- 💬 Ask me about **Java, Python, Selenium, JMeter, and automation testing tools.**
+- 💬 Ask me about **Java, Python, Selenium, JMeter, and AI Tools.**
 
 - 🌱 I’m also passionate about **Software Quality Improvement, Bug Tracking, Agile Methodology, and Continuous Integration/Continuous Delivery (CI/CD).**
 
