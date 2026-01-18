@@ -36,6 +36,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-in/products/devops/" target="_blank"><img src="https://logowik.com/content/uploads/images/azure-devops1866.jpg" alt="AzureDevops" width="40" height="40"/></a>
 </p>
 
 ---
