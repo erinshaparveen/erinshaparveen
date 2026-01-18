@@ -12,7 +12,7 @@
 - 💡 Interested in **Automation Testing, Performance Testing, Manual Testing**  
 - 💬 Ask me about **Java, Python, Selenium, JMeter, Postman, MySQL, and AI Tools**  
 - 🌱 Passionate about **Software Quality Improvement, Bug Tracking, Agile, CI/CD**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1uSsAp1au5ViaNkYqyyXIrppvp7AIpPGY/view?usp=drive_link)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1FXeTm-M3-i9S2_gDXLlnwfbEkGf_0jjK/view?usp=drive_link)  
 
 ---
 
